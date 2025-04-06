@@ -23,7 +23,6 @@ Backup_Files/
         │ └── index.html # Web interface HTML template 
         └── README.md # Project documentation
 
----
 ```
 ## 📦 Requirements
 
