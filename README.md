@@ -15,7 +15,7 @@ A simple Python-based backup tool that offers both a **web interface** (via Flas
 ---
 
 ## 📁 Project Structure
-
+```
 Backup_Files/ 
         ├── app.py # Flask web application 
         ├── backup.py # Command-line backup script 
@@ -24,7 +24,7 @@ Backup_Files/
         └── README.md # Project documentation
 
 ---
-
+```
 ## 📦 Requirements
 
 - Python 3.12 or higher
@@ -35,11 +35,9 @@ Backup_Files/
 git clone https://github.com/sainathislavath/Backup_Files.git
 
 cd Backup_Files
-
-
+```
 ## Install required packages:
 
-```
 pip install flask
 
 ### Run the application
