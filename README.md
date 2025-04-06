@@ -31,14 +31,13 @@ Backup_Files/
 - pip (Python package installer)
 
 ## How to install
-
+```
 git clone https://github.com/sainathislavath/Backup_Files.git
+
 cd Backup_Files
 
+### Install required packages:
 
-## Install required packages:
-
-```bash
 pip install flask
 
 ### Run the application
